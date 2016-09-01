@@ -1,10 +1,9 @@
 
 # Status
 
-An initial, incomplete attempt at an OpenId Connect Client.
+Development stopped on this project as of 22 August 2016, because we chose instead to create an Aurelia adapter for Oidc-Client-Js.
 
-Development stopped on this project as of 22 August 2016, 
-because we chose instead to create **[an Aurelia adapter for Oidc-Client-Js](https://github.com/shaunluttin/aurelia-oidc-client)**.
+Find it here: **[Aurelia adapter for Oidc-Client-Js](https://github.com/shaunluttin/aurelia-oidc-client)**.
 
 # Overview 
 
