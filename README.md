@@ -1,9 +1,7 @@
 
 # Status
 
-Development stopped on this project as of 22 August 2016, because we chose instead to create an Aurelia adapter for Oidc-Client-Js.
-
-Find it here: **[Aurelia adapter for Oidc-Client-Js](https://github.com/shaunluttin/aurelia-oidc-client)**.
+Development stopped on this project as of 22 August 2016; we chose instead to create an Aurelia adapter for Oidc-Client-Js. Find it here: **[Aurelia adapter for Oidc-Client-Js](https://github.com/shaunluttin/aurelia-oidc-client)**.
 
 # Overview 
 
